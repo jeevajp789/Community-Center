@@ -1,18 +1,19 @@
 body{
-	color: lightgrey;
+	background-color: #ECE9E9;
 }
 #Heading{
 	float: left;
 	padding: 1.5em;
 	background-color: black;
 	color: white;
-	width: 100%;
+	margin: .25em;
 }
 #heading1{
 	text-align: center;
 	float: left;
 	padding-top: 47px;
 	padding-left: .5em;
+
 
 }
 #logo{
